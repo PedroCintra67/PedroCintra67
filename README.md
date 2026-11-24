@@ -1,37 +1,130 @@
-# Olá, sou Pedro Cintra
+# 👨🏻‍💻 Pedro Cintra Silveira
+
+**`Estudante de Engenharia de Computação e Informação`**
 
 Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenharia de Computação e Informação na UFRJ. Tenho interesse em várias áreas da computação, principalmente em ciência de dados e inteligência artificial.
 
 Durante a graduação, fiz iniciação científica em visão computacional. Gosto de trabalhar com dados, testar ideias e entender como os resultados podem orientar decisões no desenvolvimento de software.
 
-## Linguagens e ferramentas
+<p align="left">
+    <a href="https://www.linkedin.com/in/pedro-cintra-8b1679314">
+        <img 
+            alt="LinkedIn" 
+            title="Meu perfil no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Pedro%20Cintra-0A66C2?style=for-the-badge"
+        />
+    </a>
+    <a href="https://github.com/PedroCintra67?tab=repositories">
+        <img 
+            alt="Repositórios" 
+            title="Meus repositórios no GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/Reposit%C3%B3rios-GitHub-E1AD0E?style=for-the-badge&logo=repo&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/PedroCintra67?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroCintra67?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/PedroCintra67?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroCintra67?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-475569?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+---
 
-- Programação e desenvolvimento web: Python, C++, SQL, Git e Flask.
-- Pesquisa e otimização: PyTorch e Gurobi.
-- Análise e documentação: Excel, LaTeX e Overleaf.
+### 🤖 Linguagens e Tecnologias
 
-## Projetos em destaque
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flask"
+    title="Flask" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/flask/flask-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PyTorch"
+    title="PyTorch" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/pytorch/pytorch-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="LaTeX"
+    title="LaTeX" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/latex/latex-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Overleaf"
+    title="Overleaf" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/overleaf/overleaf-original.svg" 
+/>
 
-| Projeto | O que desenvolvi ou investiguei | Tecnologias |
-| --- | --- | --- |
-| [AdaCon Early Exit](https://github.com/PedroCintra67/Adacon_Early_Exit) | Pesquisa sobre saídas antecipadas para reduzir o trabalho de inferência em detecção de objetos. | Python, PyTorch |
-| [Customizador 3D de kimonos](https://github.com/PedroCintra67/Computacao-Grafica) | Visualização e customização de kimonos no navegador. [Abrir demonstração](https://pedrocintra67.github.io/Computacao-Grafica/) | JavaScript, WebGL, p5.js, GLSL |
-| [Otimização de carteiras](https://github.com/PedroCintra67/Trab_OTM) | Comparação entre algoritmo genético e programação matemática para seleção e alocação de ativos. | Python, Flask, pymoo, Gurobi |
-| [Biblioteca de grafos](https://github.com/PedroCintra67/Bib-Grafos) | Biblioteca para manipulação de grafos, desenvolvida em coautoria na disciplina de Teoria dos Grafos. | C++ |
-| [Turno na Esteira](https://github.com/PedroCintra67/Trabalho_NovosModelos) | Jogo de precisão para navegador sobre o trabalho em uma linha de produção. | JavaScript, HTML, CSS |
+<br/>
+<br/>
 
-## Outros repositórios públicos
+### 📊 Estatísticas
 
-- [Bib-Grafos-TP2](https://github.com/PedroCintra67/Bib-Grafos-TP2) — C++
-- [Bib-Grafos-TP3](https://github.com/PedroCintra67/Bib-Grafos-TP3) — C++
-- [ReciclaBenfica](https://github.com/PedroCintra67/ReciclaBenfica) — Dart · Flutter
-- [TrabalhoFinalSO](https://github.com/PedroCintra67/TrabalhoFinalSO) — C · pthreads · Make
-- [EEL873---Engenharia-de-Software](https://github.com/PedroCintra67/EEL873---Engenharia-de-Software) — Documentação em PDF · linguagem não identificada
-- [Compiladores](https://github.com/PedroCintra67/Compiladores) — C/C++ · Flex · Bison · Make
-- [Banco-de-Dados](https://github.com/PedroCintra67/Banco-de-Dados) — LaTeX confirmado
-- [pdv-QoS](https://github.com/PedroCintra67/pdv-QoS) — Java · Maven · Docker Compose
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PedroCintra67&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCintra67&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
