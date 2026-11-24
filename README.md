@@ -1,16 +1,19 @@
-# Olá, sou Pedro Cintra 👋
+# Olá, sou Pedro Cintra
 
-Desenvolvo projetos de software e participo de pesquisa em visão computacional na UFRJ, no Grupo de Teleinformática e Automação (GTA). Neste perfil reúno trabalhos de detecção de objetos, otimização, computação gráfica, algoritmos e qualidade de software.
+Sou Pedro Cintra Silveira, estudante de Engenharia de Computação e Informação na UFRJ. Desenvolvi em dupla uma aplicação web para otimizar carteiras de investimento e me interesso por IA generativa, agentes inteligentes e integração de sistemas.
+
+Fiz iniciação científica no Grupo de Teleinformática e Automação (GTA) da UFRJ até outubro de 2026. Usei Python e PyTorch para testar saídas antecipadas em redes neurais de visão computacional e medir o efeito na precisão e no tempo de inferência.
 
 ## Linguagens e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-475569?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- **Linguagens e web** — Python, C/C++, Java, JavaScript, Dart, HTML, CSS e GLSL.
-- **Bibliotecas e ferramentas** — PyTorch, Flask, Flutter, WebGL, p5.js, Maven, Docker Compose, Gurobi e pymoo.
+- Programação e desenvolvimento web: Python, C++, SQL, Git e Flask.
+- Pesquisa e otimização: PyTorch e Gurobi.
+- Análise e documentação: Excel, LaTeX e Overleaf.
 
 ## Projetos em destaque
 
