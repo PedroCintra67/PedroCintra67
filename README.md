@@ -101,7 +101,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="Overleaf" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/overleaf/overleaf-original.svg" 
+    src="https://cdn.simpleicons.org/overleaf/47A141" 
 />
 
 <br/>
