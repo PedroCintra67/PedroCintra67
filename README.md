@@ -2,9 +2,7 @@
 
 **`Estudante de Engenharia de Computação e Informação`**
 
-Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenharia de Computação e Informação na UFRJ. Tenho interesse em várias áreas da computação, principalmente em ciência de dados e inteligência artificial.
-
-Durante a graduação, fiz iniciação científica em visão computacional. Gosto de trabalhar com dados, testar ideias e entender como os resultados podem orientar decisões no desenvolvimento de software.
+Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenharia de Computação e Informação na UFRJ. Tenho interesse por várias áreas da computação, com uma curiosidade especial por ciência de dados e inteligência artificial, por serem áreas em constante evolução e amplamente usadas hoje em dia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-cintra-8b1679314">
