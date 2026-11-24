@@ -1,8 +1,8 @@
 # Olá, sou Pedro Cintra
 
-Sou Pedro Cintra Silveira, estudante de Engenharia de Computação e Informação na UFRJ. Desenvolvi em dupla uma aplicação web para otimizar carteiras de investimento e me interesso por IA generativa, agentes inteligentes e integração de sistemas.
+Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenharia de Computação e Informação na UFRJ. Tenho interesse em várias áreas da computação, principalmente em ciência de dados e inteligência artificial.
 
-Fiz iniciação científica no Grupo de Teleinformática e Automação (GTA) da UFRJ até outubro de 2026. Usei Python e PyTorch para testar saídas antecipadas em redes neurais de visão computacional e medir o efeito na precisão e no tempo de inferência.
+Durante a graduação, fiz iniciação científica em visão computacional. Gosto de trabalhar com dados, testar ideias e entender como os resultados podem orientar decisões no desenvolvimento de software.
 
 ## Linguagens e ferramentas
 
