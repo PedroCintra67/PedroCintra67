@@ -45,7 +45,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -53,7 +53,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/cplusplus/cplusplus-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -61,7 +61,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/azuresqldatabase/azuresqldatabase-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
@@ -69,7 +69,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -77,7 +77,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="Flask" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/flask/flask-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 <img 
     align="left" 
@@ -85,7 +85,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="PyTorch" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/pytorch/pytorch-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
 />
 <img 
     align="left" 
@@ -93,7 +93,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="LaTeX" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/latex/latex-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
 />
 <img 
     align="left" 
@@ -101,7 +101,7 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
     title="Overleaf" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/overleaf/overleaf-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/overleaf/overleaf-original.svg" 
 />
 
 <br/>
