@@ -73,19 +73,27 @@ Me chamo Pedro Cintra Silveira, moro no estado do Rio de Janeiro e curso Engenha
 />
 <img 
     align="left" 
-    alt="Flask"
-    title="Flask" 
+    alt="Excel"
+    title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" 
 />
 <img 
     align="left" 
-    alt="PyTorch"
-    title="PyTorch" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
